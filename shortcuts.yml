@@ -1,11 +1,11 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-examplekeyword 0: http://www.example.com/
-examplekeyword 1: http://www.example.com/?q=<query>
-examplekeyword 2:
+sfd 0: https://developer.salesforce.com/search
+sfd 1: https://developer.salesforce.com/search#q=<query>&sort=relevancy
+sfd 2:
   url: http://www.example.com/?q=<query>&p=<puery>
-  title: Custom shortcut
+  title: Salesforce Developetr
   description: My custom shortcut with the keyword examplekeyword and 2 arguments.
   tags:
   - example
